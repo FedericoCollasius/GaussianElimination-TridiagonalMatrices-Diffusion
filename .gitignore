@@ -1,0 +1,12 @@
+./TP1/pipTP1/
+./TP1/notas.txt
+
+**/.vscode/
+**/.idea/
+**/build/
+TP1/data/*.in
+TP2/data/*.in
+**/.ipynb_checkpoints
+**/__pycache__
+
+**/*.out
